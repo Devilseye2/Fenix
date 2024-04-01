@@ -7,7 +7,7 @@ const chalk = require('chalk')
 //F E N I X - V1 UPDATE 
 
 //contact details
-global.ownernumber = ['94773010580'] //ඔයගෙ නම්බරෙ✅
+global.ownernumber = ['254113419479'] //ඔයගෙ නම්බරෙ✅
 global.ownername = "FENIX-ID SERVER"//ඔයගෙ නම✅
 global.ytname = "YT: Fenix_programmer.inc" //don't change❌❌
 global.socialm = "FENIX_ID_CASE" //don't change❌❌
@@ -20,7 +20,7 @@ global.stickername = '𝙁𝙀𝙉𝙄𝙓-𝙄𝘿' //ස්ට්කර් න
 global.packname = 'Sticker By'
 global.author = '𝙁𝙐𝘾𝙆 𝘾𝙊𝘿𝙀 𝙐𝙋' //ස්ට්කර් නම✅
 //console view/theme
-global.themeemoji = '🧩'
+global.themeemoji = '🦊'
 global.wm = "Fenix botz inc." //don't change❌❌
 
 //theme link
